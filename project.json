@@ -1,0 +1,6 @@
+{
+  "name": "screening",
+  "title": "Screening decision review",
+  "group_key": "score",
+  "value_key": "label"
+}
